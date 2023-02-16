@@ -5,37 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaaecaff-2831-4c01-b458-8c462743e828" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Navigation/AppNavigator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navigation/MainNavigator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/SplashScreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/backgroundChat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PageContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SignInForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SignUpForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SubmitButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/Colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/AuthScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/ChatListScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/ChatScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/ChatSettingsScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/SettingsScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/ValidationConstraints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/actions/FormActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/reducers/FormReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Input.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SignInForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/SignInForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SignUpForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/SignUpForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -90,7 +66,10 @@
       <workItem from="1673108923400" duration="469000" />
       <workItem from="1675698151173" duration="22320000" />
       <workItem from="1675872541796" duration="1000" />
-      <workItem from="1675953615623" duration="3789000" />
+      <workItem from="1675953615623" duration="13402000" />
+      <workItem from="1676279258934" duration="1000" />
+      <workItem from="1676341212840" duration="461000" />
+      <workItem from="1676448813839" duration="5091000" />
     </task>
     <servers />
   </component>
