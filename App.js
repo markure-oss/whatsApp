@@ -1,15 +1,19 @@
 import 'react-native-gesture-handler';
-import {StyleSheet, Text} from "react-native";
+import {LogBox, StyleSheet, Text} from "react-native";
 import {SafeAreaProvider, SafeAreaView} from "react-native-safe-area-context";
 import * as SplashScreen from 'expo-splash-screen';
 import * as Font from 'expo-font';
 import {useCallback, useEffect, useState} from "react";
+
+LogBox.ignoreLogs(['AsyncStorage has been extracted']);
 
 
 
 //vector icons
 import { Ionicons } from '@expo/vector-icons';
 import AppNavigator from "./Navigation/AppNavigator";
+import {Provider} from "react-redux";
+import {store} from "./store/Store";
 
 SplashScreen.preventAutoHideAsync();
 
@@ -55,9 +59,11 @@ export default function App() {
     }
 
     return (
-        <SafeAreaProvider style={styles.container} onLayout={onLayout}>
-            <AppNavigator />
-        </SafeAreaProvider>
+        <Provider store={store}>
+            <SafeAreaProvider style={styles.container} onLayout={onLayout}>
+                <AppNavigator />
+            </SafeAreaProvider>
+        </Provider>
     )
 }
 
