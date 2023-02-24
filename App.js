@@ -4,9 +4,7 @@ import {SafeAreaProvider, SafeAreaView} from "react-native-safe-area-context";
 import * as SplashScreen from 'expo-splash-screen';
 import * as Font from 'expo-font';
 import {useCallback, useEffect, useState} from "react";
-
-LogBox.ignoreLogs(['AsyncStorage has been extracted']);
-
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
 
 //vector icons
@@ -14,6 +12,9 @@ import { Ionicons } from '@expo/vector-icons';
 import AppNavigator from "./Navigation/AppNavigator";
 import {Provider} from "react-redux";
 import {store} from "./store/Store";
+
+LogBox.ignoreLogs(['AsyncStorage has been extracted']);
+// AsyncStorage.clear();
 
 SplashScreen.preventAutoHideAsync();
 
