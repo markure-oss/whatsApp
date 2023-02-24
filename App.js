@@ -14,6 +14,7 @@ import {Provider} from "react-redux";
 import {store} from "./store/Store";
 
 LogBox.ignoreLogs(['AsyncStorage has been extracted']);
+// clearing storage
 // AsyncStorage.clear();
 
 SplashScreen.preventAutoHideAsync();
