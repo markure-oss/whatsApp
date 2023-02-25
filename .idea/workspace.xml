@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aaaecaff-2831-4c01-b458-8c462743e828" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/authSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/authSlice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/actions/AuthActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/actions/AuthActions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,8 @@
       <workItem from="1676687177641" duration="6986000" />
       <workItem from="1676987175737" duration="4915000" />
       <workItem from="1677224787598" duration="634000" />
-      <workItem from="1677226025287" duration="10718000" />
+      <workItem from="1677226025287" duration="10908000" />
+      <workItem from="1677315751865" duration="196000" />
     </task>
     <servers />
   </component>
