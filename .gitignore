@@ -10,7 +10,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
-
+.idea
 /.idea/assetWizardSettings.xml
 /.idea/gradle.xml
 /.idea/caches
