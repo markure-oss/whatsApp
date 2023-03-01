@@ -7,9 +7,8 @@
     <list default="true" id="aaaecaff-2831-4c01-b458-8c462743e828" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/ProfileImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ProfileImage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/ImagePickerHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/ImagePickerHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/SettingsScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/SettingsScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/actions/AuthActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/actions/AuthActions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,7 @@
       <workItem from="1677460025054" duration="638000" />
       <workItem from="1677508500429" duration="9394000" />
       <workItem from="1677597073058" duration="1196000" />
+      <workItem from="1677634955812" duration="1564000" />
     </task>
     <servers />
   </component>
