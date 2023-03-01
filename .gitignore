@@ -15,7 +15,7 @@ web-build/
 /.idea/gradle.xml
 /.idea/caches
 # Uncomment next line if keeping position of elements in Navigation Editor is not relevant for you
-# /.idea/navEditor.xml
+
 
 # macOS
 .DS_Store
